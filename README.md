@@ -1,2 +1,3 @@
 # Hello-world
-Learning how to use GitHub
+
+I'm Vitor, i like coding and learning about the universe of computer programming!
